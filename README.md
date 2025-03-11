@@ -344,7 +344,7 @@ Thank you for your interest and engagement in making the Markme system a success
 - **GitHub**: [Aditya Bondre](https://github.com/AdityaBondre/Markme)
 
 ## Email Address
-- **Email**: adrenaline@example.com
+- **Email**: abondre299@gmail.com
 
 ## LinkedIn Profile
 - **LinkedIn**: [Aditya Bondre](https://www.linkedin.com/in/aditya-bondre-78a623299/)
