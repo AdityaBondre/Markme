@@ -64,7 +64,7 @@ spring.datasource.password=yourDatabasePassword
    - Navigate to the directory where you want to store the project.
    - Run the following Git command to clone the repository:
      ```
-     git clone https://github.com/your-username/markme.git
+     git clone https://github.com/AdityaBondre/markme.git
      ```
    - Change into the project directory:
      ```
